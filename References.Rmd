@@ -1,0 +1,12 @@
+---
+title: "References"
+output: html_document
+---
+
+1. Muehlenkamp, J.J., et al., International prevalence of adolescent non-suicidal self-injury and deliberate self-harm. Child Adolesc Psychiatry Ment Health, 2012. 6: p. 10.
+2. Jacobson, C.M. and M. Gould, The epidemiology and phenomenology of non-suicidal self-injurious behavior among adolescents: a critical review of the literature. Arch Suicide Res, 2007. 11(2): p. 129-47.
+3.	Prinstein, M.J., et al., Longitudinal trajectories and predictors of adolescent suicidal ideation and attempts following inpatient hospitalization. J Consult Clin Psychol, 2008. 76(1): p. 92-103.
+4.	Fox, K.R., et al., Meta-analysis of risk factors for nonsuicidal self-injury. Clin Psychol Rev, 2015. 42: p. 156-67.
+5.	Wang, Y.J., et al., Risk factors for non-suicidal self-injury (NSSI) in adolescents: A meta-analysis. EClinicalMedicine, 2022. 46: p. 101350.
+6.	Nock, M.K., Why do People Hurt Themselves? New Insights Into the Nature and Functions of Self-Injury. Curr Dir Psychol Sci, 2009. 18(2): p. 78-83.
+7. Data from Richard Liu's study (Associate Professor at MGH)

@@ -1,28 +1,31 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Julie"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Julie"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Introduction"
       icon: fa-user 
-      href: about.html
-    - text: "CV"
+      href: Introduction.html
+    - text: "Results"
       icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
+      href: Results.html
+    - text: "Conclusion"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: Conclusion.html 
+    - text: "References"
+      icon: fa-rss
+      href: References.html 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:juliechlee77@gmail.com
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/juliechlee77 
 output:
   html_document:
     theme: cosmo
